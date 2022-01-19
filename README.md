@@ -11,7 +11,7 @@ O objetivo desse projeto é realizar uma análise exploratória dos dados do Air
 4. Qual a antecedência média das reservas?
      a. Esse número é maior ou menor para finais de semana?
 
-A análise foi realizada em Pyhton.
+A análise foi realizada em Pyhton, o códio foi escrito em um Jupyter Notebook.
 
 ### Dados
 
